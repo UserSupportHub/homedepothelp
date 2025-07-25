@@ -84,3 +84,20 @@ FAQs
 ====
 
 **Q1. Do I need to register before using HomeDepot.com/MyCard?**
+Yes, if it's your first time, you need to register your card on the site.
+
+Q2. Is HomeDepot.com/MyCard safe to use?
+Yes, it uses secure encryption to protect your information.
+
+Q3. Can I pay my bill through HomeDepot.com/MyCard?
+Absolutely! You can make one-time payments or set up AutoPay.
+
+Q4. What if I forget my username or password?
+Click on the "Forgot Username/Password?" link on the login page to reset your info.
+
+
+
+Final Thoughts
+Managing your credit card doesn’t have to be hard. Thanks to HomeDepot.com/MyCard, you can take control of your finances online, anytime, anywhere. Whether you want to pay bills, view transactions, or track spending — everything is just a few clicks away.
+
+
