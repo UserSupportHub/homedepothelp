@@ -10,7 +10,7 @@ Visit `HomeDepot.com/MyCard <https://www.homedepot.com/mycard>`_ to manage your 
 
 .. image:: Button.png
    :alt: HomeDepot.com/MyCard
-   :target: https://www.homedepot.com/mycard
+   :target:  https://pre.im/?16PdXoJYcxJupYzfINtzl809B29wKCeYOl47f2vqXpLU0RUmSAKKrhatJkj3UxG6vJ53EQqk5hP2
 
 .. raw:: html
 
